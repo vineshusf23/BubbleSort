@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+Author: Vinesh Sangoi
+Date: 2/28/2024
+Comments: This C# Console Application code demonstrates the
+    Bubble Sort. 
+    No input is required for the script. It will execute without 
+    input against pre-populated arrays. 
+*/
+
+
+using System;
 
 class Bubblesort
 {
